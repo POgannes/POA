@@ -1,3 +1,1 @@
-Hello, Git!
-test row
-row to index
+This is the second file
